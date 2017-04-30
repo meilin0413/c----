@@ -1,0 +1,5 @@
+﻿  type.cpp
+i:\c++程序\typedef\typedef\type.cpp(9): warning C4101: “weekly”: 未引用的局部变量
+i:\c++程序\typedef\typedef\type.cpp(9): warning C4101: “hourly”: 未引用的局部变量
+  Typedef.vcxproj -> I:\c++程序\Typedef\Debug\Typedef.exe
+  Typedef.vcxproj -> I:\c++程序\Typedef\Debug\Typedef.pdb (Full PDB)

@@ -1,0 +1,3 @@
+﻿  main.cpp
+i:\c++程序\binarycompute\binarycompute\main.cpp(13): error C2371: “a”: 重定义；不同的基类型
+  i:\c++程序\binarycompute\binarycompute\main.cpp(10): note: 参见“a”的声明

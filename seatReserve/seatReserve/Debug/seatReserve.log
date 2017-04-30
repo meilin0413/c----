@@ -1,0 +1,4 @@
+﻿  seatReserve.cpp
+i:\c++程序\seatreserve\seatreserve\seatreserve.cpp(9): warning C4101: “seat”: 未引用的局部变量
+  seatReserve.vcxproj -> I:\c++程序\seatReserve\Debug\seatReserve.exe
+  seatReserve.vcxproj -> I:\c++程序\seatReserve\Debug\seatReserve.pdb (Full PDB)
